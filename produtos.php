@@ -1,5 +1,5 @@
 <?php
-	$route = "produto";
+	$route = "produtos";
 	$c = "#";
 	$r = "#";
 	include_once "includes/head.php";
@@ -7,7 +7,7 @@
 ?>
 
 	<main>
-		<h2>Prooduto</h2>
+		<h2>Produtos</h2>
 		<?php include_once "includes/menu.php"; ?>
 		<h3><span>&#9203;</span><span>Em breve!</span></h3>
 	</main>
