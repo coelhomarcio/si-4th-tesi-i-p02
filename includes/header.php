@@ -1,9 +1,9 @@
 <?php
-	$host = "";
-	$user = "";
-	$pass = "";
-	$db = "";
-	$port = "";
+	$host = "localhost";
+	$user = "root";
+	$pass = "root";
+	$db = "ACME";
+	$port = "8889";
 ?>
 
 <header>
